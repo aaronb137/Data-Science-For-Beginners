@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | test | | | |
+| Education | How can we improve a student's success in high school? Students in lower income areas tend to have low success rates. We hypothesize that schools that have higher funding tend to have significant increases in standardized test scores. | Data we can collect are the median school budgets from each county and the median standardized test scores (ACT/SAT) from each county. | To store the data, this data should already be structured where for each county we may need to create an aggregate of processed data of each school in a county (structured still). This data is possibly available through publicly released documents and would be stored as a table. | Insights from this data can yield information on which county would require more funding; allowing for accurate allocation and possible increases of student success in low income communities where more funding could be placed. |
 | Vaccination | | | | |
 | Productivity | | | | |
 
