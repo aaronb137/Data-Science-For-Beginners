@@ -12,31 +12,31 @@ Follow the prompts in this assignment to identify and classify the data with one
 
 1. A company has been acquired and now has a parent company. The data scientists have received a spreadsheet of customer phone numbers from the parent company. 
 
-Structure Type:
+Structure Type: Structured (spreadsheet)
 
-Value Type: 
+Value Type: Qualitative (phone number)
 
-Source Type: 
+Source Type: Secondary (shared from parent company)
 
 ---
 
 2. A smart watch has been collecting heart rate data from its wearer, and the raw data is in JSON format.
 
-Structure Type:
+Structure Type: Semi-structured (JSON)
 
-Value Type: 
+Value Type: Quantitative (can perform math on heart rate data)
 
-Source Type: 
+Source Type: Primary (data collected directly from user)
 
 ---
 
 3. A workplace survey of employee morale that is stored in a CSV file. 
 
-Structure Type:
+Structure Type: Structured (CSV)
 
-Value Type: 
+Value Type: Qualitative (survey)
 
-Source Type: 
+Source Type: Primary (from within company)
 
 ---
 
